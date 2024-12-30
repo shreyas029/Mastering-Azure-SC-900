@@ -66,5 +66,4 @@ Compliance Portal — This helps to understand, manage an organization’s compl
 Retention Policies — Is applied at site or mailbox level and to multiple location. These inherit retention from containers.
 Data Loss Prevention — These protect sensitive information and prevent data disclosure.
 Azure Resource Locks — Apply lock at parent scope and all the resources present will inherit lock.
-
 ---
